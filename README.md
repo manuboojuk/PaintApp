@@ -17,7 +17,7 @@ Each tool uses random color and for circle and rectangle they are randomly fille
 There is also a save and load feature where you can save your paintings and load them in again to work on them. They are saved according to a specially made file format documented in paintSaveFileFormat.txt and are loaded in using a FSM file parser that I implemented.
 
 ## To run the app
-This app runs on Java 1.8 so you would first need to install Java 1.8. You would also need to install JavaFX. Once you have those, import the project into eclipse and run OthelloApplication.java. There are also some issues running this on windows since it was developed on MacOS so run on MacOS for best performance. Also note that Circle isn't on by default when you run the app so you need to click a tool first to start drawing.
+This app runs on Java 1.8 so you would first need to install Java 1.8. You would also need to install JavaFX. Once you have those, import the project into eclipse and run Paint.java. There are also some issues running this on windows since it was developed on MacOS so run on MacOS for best performance. Also note that Circle isn't on by default when you run the app so you need to click a tool first to start drawing.
 
 ## Pictures
 ### Blank canvas
